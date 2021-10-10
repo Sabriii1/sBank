@@ -5,8 +5,8 @@ Discord : https://discord.gg/XQw3mM9k
 
 
 
-💻 Système de banques en rageui V2.
+- 💻 Système de banques en rageui V2.
 
-💻 Système d'ATM via props, log discord
+- 💻 Système d'ATM via props, log discord
 
-🔥 Configuration très poussé, complète simple
+- 🔥 Configuration très poussé, complète simple
